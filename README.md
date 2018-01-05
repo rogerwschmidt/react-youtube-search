@@ -3,7 +3,7 @@
 ## To install
 
 ```
-npm i
+npm install
 ```
 
 ### To start server
